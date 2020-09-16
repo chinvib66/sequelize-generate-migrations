@@ -1,5 +1,6 @@
-# sequelize-auto-migrations
-Migration generator &amp;&amp; runner for sequelize
+### Work in Progress
+# sequelize-generate-migrations
+Migration generator &amp;&amp; runner for sequelize v6
 
 This package provide two tools:
 * `makemigration` - tool for create new migrations
